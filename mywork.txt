@@ -1,0 +1,16 @@
+My Associate Id:
+845164
+Other team members:
+844994,845114,845067
+Team Lead:
+845114
+My Role in team:
+1.Json server and View Orders
+My development files
+1.vieworders.html
+2.UI
+I was strong in:
+1.Html
+2.Css
+I was Weak in :
+validations
